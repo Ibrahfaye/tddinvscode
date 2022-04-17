@@ -1,0 +1,4 @@
+/home/ibrarob/CLionProjects/tddinvscode/build/CMakeFiles/rebuild_cache.dir
+/home/ibrarob/CLionProjects/tddinvscode/build/CMakeFiles/edit_cache.dir
+/home/ibrarob/CLionProjects/tddinvscode/build/CMakeFiles/tddinvscodetest.dir
+/home/ibrarob/CLionProjects/tddinvscode/build/CMakeFiles/tddinvscode.dir

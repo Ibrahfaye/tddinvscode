@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Ibackclient.h
+RequestStatus.h
+../include/RequestStatus.h
+
+../include/RequestStatus.h
+
+../include/backclient.h
+Ibackclient.h
+../include/Ibackclient.h
+
+/home/ibrarob/CLionProjects/tddinvscode/src/backclient.cpp
+backclient.h
+/home/ibrarob/CLionProjects/tddinvscode/src/backclient.h
+

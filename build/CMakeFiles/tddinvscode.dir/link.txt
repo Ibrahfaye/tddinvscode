@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tddinvscode.dir/main.cpp.o CMakeFiles/tddinvscode.dir/src/backclient.cpp.o -o tddinvscode 
