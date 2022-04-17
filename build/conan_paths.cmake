@@ -1,3 +1,0 @@
-set(CONAN_GTEST_ROOT "/home/ibrarob/.conan/data/gtest/1.10.0/_/_/package/a4062ec0208a59375ac653551e662b6cc469fe58")
-set(CMAKE_MODULE_PATH "/home/ibrarob/.conan/data/gtest/1.10.0/_/_/package/a4062ec0208a59375ac653551e662b6cc469fe58/" ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_LIST_DIR})
-set(CMAKE_PREFIX_PATH "/home/ibrarob/.conan/data/gtest/1.10.0/_/_/package/a4062ec0208a59375ac653551e662b6cc469fe58/" ${CMAKE_PREFIX_PATH} ${CMAKE_CURRENT_LIST_DIR})
