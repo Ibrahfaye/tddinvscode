@@ -6,7 +6,6 @@ build/*
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
-hoohho
 # Local History for Visual Studio Code
 .history/
 
